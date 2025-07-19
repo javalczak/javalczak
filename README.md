@@ -86,11 +86,16 @@ All written with SOLID principles, strong typing, service abstraction, and real-
 ![TCPDF](https://img.shields.io/badge/TCPDF-PDF-gen-lightgrey)
 ![Drupal](https://img.shields.io/badge/Drupal-legacy-C2B3E2?logo=drupal)
 
-## 🔍 Highlighted Projects
+## 🔍 Highlighted Projects (coming soon)
 
-On this profile, you’ll find selected projects involving containerized environments with a mix of Python, PostgreSQL, Symfony, and React — designed for clean backend architecture, modular service communication, and long-term maintainability.
+This profile will soon feature selected backend-focused projects, including a full-stack containerized monorepo that connects:
 
-All repositories follow production-ready conventions, with focus on clarity, scalability, and system integrity.
+- Symfony backend (API Platform, Doctrine, Messenger)
+- React frontend (SPA)
+- FastAPI microservice (Python 3.11+, async)
+- PostgreSQL database
+
+Everything is being built with a focus on modular architecture, interface-based service layers, and full test coverage — using SOLID principles, strong typing, and production-grade tooling from day one.
 
 ---
 
