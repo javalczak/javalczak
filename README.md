@@ -74,7 +74,6 @@ All written with SOLID principles, strong typing, service abstraction, and real-
 ![Git](https://img.shields.io/badge/Git-versioning-orange?logo=git)
 ![GitLab CI](https://img.shields.io/badge/GitLab-CI%2FCD-orange?logo=gitlab)
 ![Linux](https://img.shields.io/badge/Linux-shell-black?logo=linux)
-![Apache](https://img.shields.io/badge/Apache-http-server-red?logo=apache)
 ![Grafana](https://img.shields.io/badge/Grafana-monitoring-orange?logo=grafana)
 ![DataDog](https://img.shields.io/badge/DataDog-logs-lightgrey?logo=datadog)
 
@@ -83,7 +82,6 @@ All written with SOLID principles, strong typing, service abstraction, and real-
 ### Legacy & Extras
 
 ![PHPMailer](https://img.shields.io/badge/PHPMailer-emails-informational)
-![TCPDF](https://img.shields.io/badge/TCPDF-PDF-gen-lightgrey)
 ![Drupal](https://img.shields.io/badge/Drupal-legacy-C2B3E2?logo=drupal)
 
 ## 🔍 Highlighted Projects (coming soon)
