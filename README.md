@@ -31,19 +31,60 @@ All written with SOLID principles, strong typing, service abstraction, and real-
 
 ## 🛠 Tech Stack
 
-![PHP](https://img.shields.io/badge/PHP-8.2-blueviolet?logo=php)
-![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)
+### Languages & Core
+
+![PHP](https://img.shields.io/badge/PHP-8.x-blueviolet?logo=php)
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-async-success?logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-compose-blue?logo=docker)
-![Redis](https://img.shields.io/badge/Redis-in--memory-red?logo=redis)
-![GitLab](https://img.shields.io/badge/GitLab-CI%2FCD-orange?logo=gitlab)
-![Cypress](https://img.shields.io/badge/Cypress-testing-brightgreen?logo=cypress)
-![Behat](https://img.shields.io/badge/Behat-BDD-darkgreen)
-![PHPUnit](https://img.shields.io/badge/PHPUnit-tests-purple?logo=php)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES5%2B-yellow?logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-semantic-orange?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-layout-blue?logo=css3)
+![SCSS](https://img.shields.io/badge/SCSS-nested-pink?logo=sass)
+![Bash](https://img.shields.io/badge/Bash-scripting-darkgreen?logo=gnu-bash)
 
 ---
+
+### Frameworks & Libraries
+
+![Symfony](https://img.shields.io/badge/Symfony-6/7-black?logo=symfony)
+![FastAPI](https://img.shields.io/badge/FastAPI-async-success?logo=fastapi)
+![React](https://img.shields.io/badge/React-components-61DAFB?logo=react)
+![Twig](https://img.shields.io/badge/Twig-templating-brightgreen)
+![Doctrine](https://img.shields.io/badge/Doctrine-ORM-purple)
+![Behat](https://img.shields.io/badge/Behat-BDD-darkgreen)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-tests-purple?logo=php)
+![Cypress](https://img.shields.io/badge/Cypress-end2end-brightgreen?logo=cypress)
+![NestJS](https://img.shields.io/badge/NestJS-modular-red?logo=nestjs)
+![jQuery](https://img.shields.io/badge/jQuery-legacy-blue?logo=jquery)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-UI-purple?logo=bootstrap)
+
+---
+
+### Databases & Storage
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-legacy-informational?logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-cache-red?logo=redis)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-search-orange?logo=elasticsearch)
+
+---
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-compose-blue?logo=docker)
+![Git](https://img.shields.io/badge/Git-versioning-orange?logo=git)
+![GitLab CI](https://img.shields.io/badge/GitLab-CI%2FCD-orange?logo=gitlab)
+![Linux](https://img.shields.io/badge/Linux-shell-black?logo=linux)
+![Apache](https://img.shields.io/badge/Apache-http-server-red?logo=apache)
+![Grafana](https://img.shields.io/badge/Grafana-monitoring-orange?logo=grafana)
+![DataDog](https://img.shields.io/badge/DataDog-logs-lightgrey?logo=datadog)
+
+---
+
+### Legacy & Extras
+
+![PHPMailer](https://img.shields.io/badge/PHPMailer-emails-informational)
+![TCPDF](https://img.shields.io/badge/TCPDF-PDF-gen-lightgrey)
+![Drupal](https://img.shields.io/badge/Drupal-legacy-C2B3E2?logo=drupal)
 
 ## 🔍 Highlighted Projects
 
