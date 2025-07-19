@@ -1,4 +1,4 @@
-# 👋 Hi, I'm javalczak
+# 👋 Hi
 
 Senior backend engineer with a strong PHP/Symfony background and growing expertise in Python (FastAPI).  
 I design full-featured backend architectures with focus on clean code, system integration, and production-grade quality.
@@ -45,11 +45,11 @@ All written with SOLID principles, strong typing, service abstraction, and real-
 
 ---
 
-## 🔍 Highlighted Projects (soon)
+## 🔍 Highlighted Projects
 
-- `fastapi-clean-architecture` – REST API using FastAPI, SOLID, interfaces, service layer, full testing
-- `symfony-react-monorepo` – full Docker environment with Symfony, React, PostgreSQL, and shared services
-- `legacy-to-modern` – example of modernizing a legacy PHP app to Symfony 7 with tests and CI/CD
+On this profile, you’ll find selected projects involving containerized environments with a mix of Python, PostgreSQL, Symfony, and React — designed for clean backend architecture, modular service communication, and long-term maintainability.
+
+All repositories follow production-ready conventions, with focus on clarity, scalability, and system integrity.
 
 ---
 
@@ -57,9 +57,5 @@ All written with SOLID principles, strong typing, service abstraction, and real-
 
 - LinkedIn: [linkedin.com/in/javalczak](https://linkedin.com/in/javalczak)  
 - GitHub: [github.com/javalczak](https://github.com/javalczak)  
-<!-- Optional: Add email if you'd like -->
-<!-- - Email: your.email@example.com -->
 
 ---
-
-> ⭐ Feel free to
